@@ -1,4 +1,4 @@
-# Hi, I'm Sunny 👋
+# Hi, I'm City Minutes 👋
 
 ### I turn copywriting expertise into practical AI systems.
 
@@ -24,6 +24,11 @@ I care about clear thinking, traceable sources, privacy-aware workflows, and out
 ## Current direction
 
 I am currently converting my custom GPT workflows into portable Codex skills and documenting the process in public repositories.
+
+## Featured skills
+
+- [Five-Power Copy Audit — Traditional Chinese](https://github.com/cityminutes/five-power-copy-audit-zh) — evaluates commercial copy across five professional dimensions and returns a focused creative-director critique.
+- [Five-Power Copy Audit — English](https://github.com/cityminutes/five-power-copy-audit-en) — an English-language edition with calibrated scoring and actionable revision guidance.
 
 ## Let's connect
 
