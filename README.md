@@ -1,4 +1,4 @@
-# Hi, I'm City Minutes 👋
+# Hi, I'm Sunny 👋
 
 ### I turn copywriting expertise into practical AI systems.
 
